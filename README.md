@@ -40,7 +40,7 @@
 
 ## Authors
 
-This library is written and maintained by spikeon, <a href="mailto:spikeon@gmail.com">moyuyc95@gmail.com</a>.  
+This library is written and maintained by spikeon, <a href="mailto:spikeon@gmail.com">spikeon@gmail.com</a>.  
 Based on work by imcuttle, <a href="mailto:moyuyc95@gmail.com">moyuyc95@gmail.com</a>.
 
 ## License
